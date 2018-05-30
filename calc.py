@@ -1,5 +1,5 @@
 define addition(x,y):
-    pass
+    return x + y
 define subtraction(x,y):
     pass
 define multiplication(x,y):
